@@ -363,4 +363,27 @@ MoneyMate bertujuan menjadi platform manajemen keuangan yang:
 
 ---
 
+## 🚀 Mulai Menggunakan Aplikasi
+Aplikasi MoneyMate sepenuhnya berbasis web (*Web App*) sehingga Anda tidak perlu mengunduh apa pun di ponsel atau komputer Anda. Cukup klik tautan di bawah ini untuk masuk ke dashboard Anda:
+
+👉 **[Buka Web App MoneyMate](https://app.moneymate.id)**
+
+## 🌐 Terhubung dengan Kami (Media Sosial)
+Ikuti perkembangan terbaru, tips mengelola uang, infografis finansial harian, serta pembaruan fitur menarik melalui saluran media sosial resmi kami:
+
+* **Instagram:** [@moneymate_id](https://instagram.com/moneymate_id) – *Tips finansial harian, reels edukatif, dan info produk.*
+* **TikTok:** [@moneymate.id](https://tiktok.com/@moneymate.id) – *Konten edukasi keuangan yang seru, singkat, dan menghibur.*
+* **X (Twitter):** [@moneymateid](https://x.com/moneymateid) – *Diskusi keuangan harian, info cepat, dan customer support.*
+* **LinkedIn:** [MoneyMate Indonesia](https://linkedin.com/company/moneymate-id) – *Informasi korporasi, karier, dan pembaruan industri.*
+* **YouTube:** [MoneyMate ID Official](https://www.youtube.com/@moneymateofficial-id) – *Video tutorial mendalam dan webinar seputar literasi keuangan.*
+
+---
+
+## 🛠️ Dukungan & Masalah
+Jika Anda mengalami kendala saat mengakses Web App di `app.moneymate.id` atau memiliki pertanyaan seputar layanan kami, silakan hubungi tim dukungan pelanggan melalui:
+* Email: **support@moneymate.id**
+* Halaman Hubungi Kami: [moneymate.id/contact](https://app.moneymate.id/kontak)
+
+---
+
 <p align="center">With ❤️ by MoneyMate Teams</p>
