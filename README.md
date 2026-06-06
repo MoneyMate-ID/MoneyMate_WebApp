@@ -1,6 +1,8 @@
-<div align="center">
-  <h1>MoneyMate</h1>
-</div>
+<p align="center">
+  <a href="https://app.moneymate.id" target="_blank">
+    <img src="https://moneymate.id/images/moneymate-original.png" width="300" alt="MoneyMate Logo">
+  </a>
+</p>
 
 <p align="center"><b>Platform Web Interaktif untuk Manajemen Anggaran Harian & Analisis Keuangan</b></p>
 
