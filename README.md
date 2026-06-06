@@ -19,6 +19,28 @@ Dengan antarmuka yang sederhana namun informatif, MoneyMate memudahkan pengguna 
 * 🎯 Merencanakan anggaran
 * 💡 Mencapai tujuan finansial dengan lebih terarah
 
+## 🖼️ Preview
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MoneyMate-ID/MoneyMate_WebApp/refs/heads/main/homelanding.png" width="600" alt="Landing Preview">
+</p>
+
+<p align="center">
+  <img src="https://app.moneymate.id/images/banner2.png" width="600" alt="Dashboard Preview">
+</p>
+
+<p align="center">
+  <img src="https://app.moneymate.id/images/banner3.png" width="600" alt="Transaksi Preview">
+</p>
+
+<p align="center">
+  <img src="https://app.moneymate.id/images/banner4.png" width="600" alt="Laporan Preview">
+</p>
+
+<p align="center">
+  <img src="https://app.moneymate.id/images/banner6.png" width="600" alt="Visualisasi Preview">
+</p>
+
 ---
 
 # 🚀 Fitur Utama
